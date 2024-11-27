@@ -1,1 +1,2 @@
 This is an early version of my personal notes on optimization. The contents are not complete and not guaranteed to be correct. The completed version will be updated once available.
+The major contents involve various basics of optimization. It starts with introduction to the mathematical optimization problem, linear program, involving definitions, explanations, and examples, followed by some standard forms, duality, and optimality conditions, etc.

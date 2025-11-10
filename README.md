@@ -1,1 +1,1 @@
-This is an early version of my personal notes on optimization. The contents are not complete and not guaranteed to be accurate. The completed version will be updated once available. It majorly focuses on theoretical properties of linear programs, rather than basics such as problem formulations.
+This is an early version of my personal notes on optimization. It majorly focuses on theoretical properties of linear programs, rather than basics such as problem formulations.
